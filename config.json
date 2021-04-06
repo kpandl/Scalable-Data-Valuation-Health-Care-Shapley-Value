@@ -1,0 +1,8 @@
+{
+  "path_to_train_csv": "../../data/datasets/train_0_effusion.csv" ,
+  "path_to_val_csv": "../../data/datasets/valid_0_effusion.csv",
+  "path_to_test_csv" : "../../data/datasets/test_0_effusion.csv" ,
+  "path_to_image_data":  "../../data/",
+  "run_dir": "../../runs/",
+  "eval_dir": "../../eval/"
+}
